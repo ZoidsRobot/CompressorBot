@@ -33,7 +33,7 @@ async def start(event):
         buttons=[
             [Button.inline("HELP", data="ihelp")],
             [
-                Button.url("SOURCE CODE", url="xnxx"),
+                Button.url("SOURCE CODE", url="http://github.com/xnxx"),
                 Button.url("DEVELOPER", url="t.me/Eror_404_NF"),
             ],
         ],
@@ -60,7 +60,7 @@ async def beck(event):
         buttons=[
             [Button.inline("HELP", data="ihelp")],
             [
-                Button.url("SOURCE CODE", url="xnxx"),
+                Button.url("SOURCE CODE", url="http://github.com/xnxx"),
                 Button.url("DEVELOPER", url="t.me/Eror_404_NF"),
             ],
         ],
